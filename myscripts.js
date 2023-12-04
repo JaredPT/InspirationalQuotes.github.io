@@ -30,12 +30,13 @@
     "Spread love everywhere you go. Let no one ever come to you without leaving happier",
     "When you reach the end of your rope, tie a knot in it and hang on",
     "Always remember that you are absolutely unique. Just like everyone else",
-    "When the cat is away, the mice come out and play",
+    "When the cat is away, the mice have fun",
     "The Night is Darkest Right Before the Dawn. And i Promise you, the Dawn is Coming",
     "You either die a Hero or live long enough to see yourself become the Villain",
     "Pressure is a privilege",
     "I'm usually Drug-Free, but shiiiit I'm with the homies",
     "There are no timeouts in real life",
+    "You're only as good as your last F up",
   
   ];
   
