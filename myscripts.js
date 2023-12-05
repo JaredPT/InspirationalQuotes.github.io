@@ -44,7 +44,7 @@
    // let ding = new Audio("yugh.mp3");
 
 
-  let images = ["heather.webp","dre.jpg", "mikes.webp","davel.jpg","Bob Jones.png","Scot E.jpg","Sam.png","John K.png","IMG_9636.jpg","IMG_9882.jpg","IMG_9776.png","IMG_9882.jpg","IMG_9865.jpg","IMG_9769.png","Jesse.png","jared.png", "james.png", "glenn.png", "joe.webp", "bob.webp","chrish.webp", "chrisw.webp", "dave.webp", "joana.webp", "nancy.webp", "rick.webp", "sam.webp", "yann.webp", "john.webp"];  
+  let images = ["heather.webp","Heather2.jpg", "dre.jpg", "mikes.webp","davel.jpg","Bob Jones.png","Scot E.jpg","Sam.png","John K.png","IMG_9636.jpg","IMG_9882.jpg","IMG_9776.png","IMG_9882.jpg","IMG_9865.jpg","IMG_9769.png","Jesse.png","jared.png", "james.png", "glenn.png", "joe.webp", "bob.webp","chrish.webp", "chrisw.webp", "dave.webp", "joana.webp", "nancy.webp", "rick.webp", "sam.webp", "yann.webp", "john.webp"];  
   
   function generate() {
 
