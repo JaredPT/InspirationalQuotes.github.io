@@ -55,8 +55,8 @@
   "“You measure the size of the accomplishment by the obstacles you had to overcome to reach your goals.” – Booker T. Washington",
   "“Self-belief and hard work will always earn you success.” - Virat Kohli",
   "“If you believe it’ll work out, you’ll see opportunities. If you don't believe it'll work out, you'll see obstacles.” – Wayne Dyer",
-  "“I honestly think it is better to be a failure at something you love than to be a success at something you hate.” – George Burns"  
-  
+  "“I honestly think it is better to be a failure at something you love than to be a success at something you hate.” – George Burns",
+    "“I'm not here to make friends, I'm here to get shit done.” – John M.",
   ];
   
   
