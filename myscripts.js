@@ -7,7 +7,7 @@
     "You either die a Hero or live long enough to see yourself become the Villain",
    "“Pressure is a privilege” – James",
    "“I'm usually Drug-free, but shiiiit i'm with the homies” – Kendrick Lamar",
-   "“There are no timeouts in real life” – Jared"
+   "“There are no timeouts in real life” – Jared",
    "“You are only as good as your last F up” – Glenn",
     "“Go piss up a rope” – Glenn",
      "“The way to get started is to quit talking and begin doing.” – Walt Disney",
