@@ -1,7 +1,7 @@
   const quotes = [
   "“Excuses are monuments of nothing, that build bridges to nowhere” – Dre",
   "“If you are tired of starting over, don't quit” – James",
-    "“This for everybody going through tough times, believe me, been there, done that. But every day above ground is a great day, remember that” – Pitbut (Mr. Worldwide)",
+    "“This for everybody going through tough times, believe me, been there, done that. But every day above ground is a great day, remember that” – Pitbull (Mr. Worldwide)",
     "“When the cat is away, the mice have fun” – John K.",
     "The Night is Darkest Right Before the Dawn. And i Promise you, the Dawn is Coming",
     "You either die a Hero or live long enough to see yourself become the Villain",
